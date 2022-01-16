@@ -1,6 +1,6 @@
 [
   {
-    "name": "Air Jump",
+    "name": "AirJump",
     "author": "fchb1239",
     "version": "1.0.2",
     "dependencies": ["Utilla"],
