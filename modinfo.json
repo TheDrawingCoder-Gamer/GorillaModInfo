@@ -14,7 +14,7 @@
     "version": "1.0.0",
     "dependencies": ["Utilla"],
     "group": "Gameplay",
-    "download_url": "https://github.com/AHauntedArmy/BetaSlides/releases/download/1.0.0/BetaSlides.dll"
+    "download_url": "https://github.com/AHauntedArmy/BetaSlides/releases/download/1.0.0/BetaSlides.dll",
     "install_path": "BepInEx/plugins",
     "git_path": "AHauntedArmy/BetaSlides"
     
