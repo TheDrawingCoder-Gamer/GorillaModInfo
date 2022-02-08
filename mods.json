@@ -22,6 +22,15 @@
       "installPath": "BepInEx/plugins",
       "gitPath": "AHauntedArmy/BetaSlides"
       
+    },
+    {
+      "name": "DashMonke", 
+      "tag": "",
+      "releaseId": 0, 
+      "author": "Frogilla",
+      "dependencies": ["Utilla"],
+      "group": "Gameplay",
+      "gitPath": "Frogrilla/DashMonke"
     }
   ]
 }  
