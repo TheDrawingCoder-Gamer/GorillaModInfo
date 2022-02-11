@@ -31,6 +31,16 @@
       "dependencies": ["Utilla"],
       "group": "Gameplay",
       "gitPath": "Frogrilla/DashMonke"
+    },
+    {
+      "name": "Seasons",
+      "tag": "", 
+      "releaseId": 0,
+      "author": "BulbyVR",
+      "dependencies": ["Utilla"],
+      "group": "Tweaks / Tools",
+      "gitPath": "TheDrawingCoder-Gamer/GtagSeasons",
+      "beta": true
     }
   ]
 }  
