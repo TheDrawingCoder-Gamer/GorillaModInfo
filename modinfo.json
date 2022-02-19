@@ -14,14 +14,14 @@
   {
     "name": "BetaSlides",
     "author": "A Haunted Army",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "dependencies": [
       "Utilla"
     ],
     "install_location": "BepInEx/plugins",
     "git_path": "AHauntedArmy/BetaSlides",
     "group": "Gameplay",
-    "download_url": "https://github.com/AHauntedArmy/BetaSlides/releases/download/1.0.1/BetaSlides.dll"
+    "download_url": "https://github.com/AHauntedArmy/BetaSlides/releases/download/1.0.2/BetaSlides.dll"
   },
   {
     "name": "DashMonke",
