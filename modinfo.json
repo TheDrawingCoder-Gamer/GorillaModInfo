@@ -26,12 +26,12 @@
   {
     "name": "DashMonke",
     "author": "Frogilla",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "dependencies": [
       "Utilla"
     ],
     "git_path": "Frogrilla/DashMonke",
     "group": "Gameplay",
-    "download_url": "https://github.com/Frogrilla/DashMonke/releases/download/1.0.1/DashMonke-v1.0.1.zip"
+    "download_url": "https://github.com/Frogrilla/DashMonke/releases/download/1.0.2/DashMonke-v1.0.2.zip"
   }
 ]
