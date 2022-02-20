@@ -24,15 +24,6 @@
       
     },
     {
-      "name": "DashMonke", 
-      "tag": "",
-      "releaseId": 0, 
-      "author": "Frogilla",
-      "dependencies": ["Utilla"],
-      "group": "Gameplay",
-      "gitPath": "Frogrilla/DashMonke"
-    },
-    {
       "name": "Seasons",
       "tag": "", 
       "releaseId": 0,
