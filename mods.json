@@ -32,6 +32,15 @@
       "group": "Tweaks / Tools",
       "gitPath": "TheDrawingCoder-Gamer/GtagSeasons",
       "beta": true
+    },
+    {
+        "name": "Haunted Mod Menu",
+        "tag": "",
+        "releaseId": 0,
+        "author": "A Haunted Army",
+        "dependencies": ["Utilla"],
+        "group": "Tweaks / Tools",
+        "gitPath": "AHauntedArmy/HauntedModMenu",
     }
   ]
 }  
