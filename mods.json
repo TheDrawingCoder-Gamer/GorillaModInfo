@@ -40,7 +40,7 @@
         "author": "A Haunted Army",
         "dependencies": ["Utilla"],
         "group": "Tweaks / Tools",
-        "gitPath": "AHauntedArmy/HauntedModMenu",
+        "gitPath": "AHauntedArmy/HauntedModMenu"
     }
   ]
 }  
